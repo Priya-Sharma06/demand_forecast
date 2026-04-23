@@ -1,7 +1,6 @@
 
 # AI-Powered Demand Forecasting & Inventory Optimization
 
-**Timeline:** January 2026 – March 2026 
 **Tech:** Python, Prophet, Pandas, Streamlit, Matplotlib, Statsmodels (ARIMA)
 
 ## What’s included
